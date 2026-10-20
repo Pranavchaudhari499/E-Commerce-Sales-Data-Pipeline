@@ -1,0 +1,19 @@
+# Core ETL
+pandas==1.5.3
+numpy==1.24.4
+pyarrow==12.0.0
+
+# SQL database drivers / engines
+SQLAlchemy==2.0.19
+psycopg2-binary==2.9.9
+
+# Dashboard
+dash==2.13.0
+plotly==5.15.0
+dash-bootstrap-components==1.5.0
+
+# Testing
+pytest==7.4.0
+
+# Utility
+python-dotenv==1.0.0
